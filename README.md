@@ -64,8 +64,11 @@ This project focused on:
 - **Associated Genes**: **CTNNB1**, **AXIN1**, **AXIN2**.
 
 ### **PPI Network**
+- A visualization of the key interactions with proteins in Wnt signaling.
+- The roles in tumor suppression and cell cycle regulation were confirmed through pathway enrichment tools.
 
 ### **DNA Polymorphisms**
+- Polymorphisms in the APC promoter region are largely linked to the observed alteration in gene expression in colonic tissue.
 
 ### **Hypothesis**
 - FAP is caused by a disregulation of APC and its downstream effects on the accumulation of β-catenin, leading to excessive cell proliferation.
@@ -77,3 +80,7 @@ This project focused on:
 ### **Interpretation of Results**
 APC plays a central role in FAP and highlighted genetic variants that affect its expression. The PPI network highlights the importance of interactions in the Wnt signaling pathway.
 
+---
+
+## **Conclusion**
+This study found that the phenotype of FAP is largely due to the misexpression of the APC gene, which is largely confirmed by the DNA polymirphisms association with the aberrant activation of Wnt target genes.
